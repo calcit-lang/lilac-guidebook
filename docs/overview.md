@@ -1,6 +1,4 @@
 
 ## Overview
 
-| a | b |
-| -- | -- |
-| d | e |
+Data validation.
