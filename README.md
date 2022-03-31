@@ -1,8 +1,6 @@
+## Docs for [Lilac](https://github.com/calcit-lang/lilac)
 
-Docs for [Lilac](https://github.com/calcit-lang/lilac)
-----
-
-Demo http://repo.calcit-lang.org/lilac-guidebook .
+Demo http://repo.calcit-lang.org/lilac-guidebook/ .
 
 ### Workflow
 
