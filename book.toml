@@ -1,0 +1,12 @@
+
+[book]
+title = "Calcit Docs"
+authors = [ "tiye" ]
+src = "docs"
+
+[output.html]
+
+[output.linkcheck]
+
+[build]
+create-missing = false
