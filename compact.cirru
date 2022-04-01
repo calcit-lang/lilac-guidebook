@@ -37,8 +37,6 @@
                   :content $ load-doc "\"apis/list-rule.md"
                 {} (:title "\"map+") (:key :map-rule)
                   :content $ load-doc "\"apis/map-rule.md"
-                {} (:title "\"list+") (:key :list-rule)
-                  :content $ load-doc "\"apis/list-rule.md"
                 {} (:title "\"not+") (:key :not-rule)
                   :content $ load-doc "\"apis/not-rule.md"
                 {} (:title "\"number+") (:key :number-rule)
