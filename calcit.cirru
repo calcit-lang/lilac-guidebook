@@ -205,18 +205,18 @@
                                   |b $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648745639065)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648745639065) (:text |:title)
-                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746048889) (:text "|\"boolean+")
+                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874575913) (:text "|\"bool+")
                                   |h $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648745639065)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648745639065) (:text |:key)
-                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746052022) (:text |:boolean-rule)
+                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874577438) (:text |:bool-rule)
                                   |l $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648745639065)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648745639065) (:text |:content)
                                       |b $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648745639065)
                                         :data $ {}
                                           |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648745639065) (:text |load-doc)
-                                          |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746055052) (:text "|\"apis/boolean-rule.md")
+                                          |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874580162) (:text "|\"apis/bool-rule.md")
                               |l $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746059191)
                                 :data $ {}
                                   |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746059191) (:text |{})
@@ -277,18 +277,18 @@
                                   |b $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746061720)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746061720) (:text |:title)
-                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746138843) (:text "|\"map+")
+                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874583252) (:text "|\"dict+")
                                   |h $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746061720)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746061720) (:text |:key)
-                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746140508) (:text |:map-rule)
+                                      |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874584733) (:text |:dict-rule)
                                   |l $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746061720)
                                     :data $ {}
                                       |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746061720) (:text |:content)
                                       |b $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746061720)
                                         :data $ {}
                                           |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746061720) (:text |load-doc)
-                                          |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746143002) (:text "|\"apis/map-rule.md")
+                                          |b $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648874587036) (:text "|\"apis/dict-rule.md")
                               |u $ {} (:type :expr) (:by |rJG4IHzWf) (:at 1648746063808)
                                 :data $ {}
                                   |T $ {} (:type :leaf) (:by |rJG4IHzWf) (:at 1648746063808) (:text |{})

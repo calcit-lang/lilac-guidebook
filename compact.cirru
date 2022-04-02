@@ -27,16 +27,16 @@
                   :content $ load-doc "\"apis/and-rule.md"
                 {} (:title "\"any+") (:key :any-rule)
                   :content $ load-doc "\"apis/any-rule.md"
-                {} (:title "\"boolean+") (:key :boolean-rule)
-                  :content $ load-doc "\"apis/boolean-rule.md"
+                {} (:title "\"bool+") (:key :bool-rule)
+                  :content $ load-doc "\"apis/bool-rule.md"
                 {} (:title "\"is+") (:key :is-rule)
                   :content $ load-doc "\"apis/is-rule.md"
                 {} (:title "\"keyword+") (:key :keyword-rule)
                   :content $ load-doc "\"apis/keyword-rule.md"
                 {} (:title "\"list+") (:key :list-rule)
                   :content $ load-doc "\"apis/list-rule.md"
-                {} (:title "\"map+") (:key :map-rule)
-                  :content $ load-doc "\"apis/map-rule.md"
+                {} (:title "\"dict+") (:key :dict-rule)
+                  :content $ load-doc "\"apis/dict-rule.md"
                 {} (:title "\"not+") (:key :not-rule)
                   :content $ load-doc "\"apis/not-rule.md"
                 {} (:title "\"number+") (:key :number-rule)
