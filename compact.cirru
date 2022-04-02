@@ -20,6 +20,44 @@
             {} (:title "\"Guide") (:key :guide)
               :content $ load-doc "\"guide.md"
               :children $ []
+            {} (:title "\"APIs") (:key :apis)
+              :content $ load-doc "\"apis.md"
+              :children $ []
+                {} (:title "\"and+") (:key :and-rule)
+                  :content $ load-doc "\"apis/and-rule.md"
+                {} (:title "\"any+") (:key :any-rule)
+                  :content $ load-doc "\"apis/any-rule.md"
+                {} (:title "\"boolean+") (:key :boolean-rule)
+                  :content $ load-doc "\"apis/boolean-rule.md"
+                {} (:title "\"is+") (:key :is-rule)
+                  :content $ load-doc "\"apis/is-rule.md"
+                {} (:title "\"keyword+") (:key :keyword-rule)
+                  :content $ load-doc "\"apis/keyword-rule.md"
+                {} (:title "\"list+") (:key :list-rule)
+                  :content $ load-doc "\"apis/list-rule.md"
+                {} (:title "\"map+") (:key :map-rule)
+                  :content $ load-doc "\"apis/map-rule.md"
+                {} (:title "\"not+") (:key :not-rule)
+                  :content $ load-doc "\"apis/not-rule.md"
+                {} (:title "\"number+") (:key :number-rule)
+                  :content $ load-doc "\"apis/number-rule.md"
+                {} (:title "\"optional+") (:key :optional-rule)
+                  :content $ load-doc "\"apis/optional-rule.md"
+                {} (:title "\"or+") (:key :or-rule)
+                  :content $ load-doc "\"apis/or-rule.md"
+                {} (:title "\"pick-type+") (:key :pick-type-rule)
+                  :content $ load-doc "\"apis/pick-type-rule.md"
+                {} (:title "\"record+") (:key :record-rule)
+                  :content $ load-doc "\"apis/record-rule.md"
+                {} (:title "\"set+") (:key :set-rule)
+                  :content $ load-doc "\"apis/set-rule.md"
+                {} (:title "\"string+") (:key :string-rule)
+                  :content $ load-doc "\"apis/string-rule.md"
+                {} (:title "\"tuple+") (:key :tuple-rule)
+                  :content $ load-doc "\"apis/tuple-rule.md"
+            {} (:title "\"Custom Method") (:key :custom-method)
+              :content $ load-doc "\"custom-method.md"
+              :children $ []
         |load-doc $ quote
           defmacro load-doc (filename)
             read-file $ str "\"docs/" filename
