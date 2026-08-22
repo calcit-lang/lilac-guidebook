@@ -17,12 +17,12 @@ jobs:
         node-version: 24
         cache: 'yarn'
 
-    - uses: calcit-lang/setup-cr@0.0.8
+    - uses: calcit-lang/setup-calcit@3b5843cb725963bb4ee158cfe49dad877134963e # v1
 
     - name: "compiles to js"
       run: >
-        caps --ci && cr --once js
-        && yarn && yarn vite build --base=./
+        caps --ci && calcit calcit.cirru js
+        && yarn install --immutable && yarn vite build --base=./
 
     - name: Deploy to server
       id: deploy
