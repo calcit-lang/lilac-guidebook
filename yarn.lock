@@ -14,14 +14,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@calcit/procs@npm:^0.13.30":
-  version: 0.13.30
-  resolution: "@calcit/procs@npm:0.13.30"
+"@calcit/procs@npm:^0.13.31":
+  version: 0.13.31
+  resolution: "@calcit/procs@npm:0.13.31"
   dependencies:
     "@calcit/ternary-tree": "npm:0.0.26"
     "@cirru/parser.ts": "npm:^0.0.9"
     "@cirru/writer.ts": "npm:^0.1.9"
-  checksum: 10c0/33f76c5d7590932834c1c4429228acf362c982e23d81fbf3eb2719eb484f46d7e767183b95d0c63a8a402d351bc52c58809f880b8a9245a4cdd3ca347afe406e
+  checksum: 10c0/7114144cf01c890b05538598b1ab2b2b9f201aa477ac17c4f708f3abfe49beb0a3889e305b08bce81b096a75d46f420b2ee005351a0ab1d6fad54f6655c79406
   languageName: node
   linkType: hard
 
@@ -1011,7 +1011,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@calcit/docs-workflow": "npm:^0.0.7"
-    "@calcit/procs": "npm:^0.13.30"
+    "@calcit/procs": "npm:^0.13.31"
     "@memkits/azure-speech-util": "npm:^0.0.5"
     bottom-tip: "npm:^0.1.5"
     cirru-color: "npm:^0.2.4"
